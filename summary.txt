@@ -1,0 +1,9 @@
+
+The correlation heatmap of the House Prices dataset shows strong positive
+relationships between SalePrice and features such as OverallQual,
+GrLivArea, GarageArea, and TotalBsmtSF. OverallQual has the highest
+correlation with SalePrice, indicating that better construction quality
+significantly increases house value. Pairwise plots further confirm strong
+linear relationships between living area and sale price. Negative or weak
+correlations were observed for several miscellaneous features, indicating
+limited influence on pricing.
